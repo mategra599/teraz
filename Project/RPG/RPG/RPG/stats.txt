@@ -1,0 +1,12 @@
+ Name: tymek
+ Class: Knight
+ Health: 13
+ Strength: 12
+ Agility: 4
+ Charisma: 5
+ Magic: 9
+ Intelligence: 10
+ Current hp: 33/65
+ Sum: 53
+
+

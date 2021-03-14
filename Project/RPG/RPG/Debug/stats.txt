@@ -1,0 +1,24 @@
+ Name: qwe
+ Class: Bard
+ Health: 10
+ Strength: 3
+ Agility: 7
+ Charisma: 20
+ Magic: 2
+ Intelligence: 12
+ Current hp: 50/50
+ Sum: 54
+
+
+ Name: 1
+ Class: Bard
+ Health: 10
+ Strength: 3
+ Agility: 7
+ Charisma: 20
+ Magic: 2
+ Intelligence: 12
+ Current hp: 33/50
+ Sum: 54
+
+
